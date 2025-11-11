@@ -12,12 +12,12 @@ The model is built using text preprocessing, tokenization, stop word removal, an
 The user can input any message, and the system will predict whether it is Spam or Not Spam.
 
 ⚙️ Libraries Used:
-Library	Purpose
-pandas	For loading and handling the dataset (CSV file)
-nltk	For natural language processing tasks like removing stopwords
-scikit-learn (sklearn)	For vectorizing text data (CountVectorizer), splitting data, and training Naive Bayes model
-matplotlib / seaborn (optional)	For visualization or accuracy graph
-numpy	For numerical operations (used internally by sklearn)
+Library           	                Purpose
+pandas	                            For loading and handling the dataset (CSV file)
+nltk	                              For natural language processing tasks like removing stopwords
+scikit-learn (sklearn)	            For vectorizing text data (CountVectorizer), splitting data, and training Naive Bayes model
+matplotlib / seaborn (optional)	    For visualization or accuracy graph
+numpy	                              For numerical operations (used internally by sklearn)
 
 🔬 Modules Used:
 
